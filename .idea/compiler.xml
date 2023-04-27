@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Indigo Card Game.Indigo_Card_Game.Indigo_Card_Game-task-build-classes-kotlin.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-classes-kotlin.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-reports-tests.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-test-results.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-tmp.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-out.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Data_class-equals___check.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Data_class-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Data_class-toString___modification.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Hierarchy_of_exceptions-Fix_the_code.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Hierarchy_of_exceptions-NumberFormat.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Banana.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Mutable_List.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Null_safety-Elvis_throwing_exceptions.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Null_safety-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
